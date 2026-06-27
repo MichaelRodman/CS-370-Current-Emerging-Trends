@@ -1,4 +1,3 @@
-```markdown
 # CS 370 Portfolio: Pirate Intelligent Agent
 
 ## Project Summary
@@ -39,7 +38,7 @@ For this project, ethical responsibility connects to validation and transparency
 
 ## Files Included
 
-- `Rodman_Michael_ProjectTwo.ipynb` — Jupyter Notebook containing the pirate intelligent agent implementation
-- `Rodman_Michael_ProjectTwo.pdf` — PDF export showing the completed notebook and final output
-- `Rodman_Michael_ProjectTwo.html` — HTML export of the completed notebook
-- `Rodman_Michael_ProjectTwo_DesignDefense.docx` — written design defense for the project
+* `Rodman_Michael_ProjectTwo.ipynb` — Jupyter Notebook containing the pirate intelligent agent implementation
+* `Rodman_Michael_ProjectTwo.pdf` — PDF export showing the completed notebook and final output
+* `Rodman_Michael_ProjectTwo.html` — HTML export of the completed notebook
+* `Rodman_Michael_ProjectTwo_DesignDefense.docx` — written design defense for the project
